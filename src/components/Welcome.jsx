@@ -3,7 +3,7 @@ import Image from "next/image";
 export const Welcome = () => {
   return (
     <div className="text-center">
-      <h1 className="text-center mt-5">Hello Rigo!</h1>
+      <h1 className="text-center mt-5">Hello World!</h1>
       <p>
         <Image
           src="/images/rigo-baby.jpeg"
